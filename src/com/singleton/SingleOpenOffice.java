@@ -10,7 +10,7 @@ import com.xh.Constant;
 
 /**
  * 
- * @author M.Dong
+ * @author H.Yang
  * @date 2017年9月8日
  */
 public class SingleOpenOffice {
@@ -38,7 +38,7 @@ public class SingleOpenOffice {
 	 * <hr>
 	 * 将doc,docx,xls,xlsx,ppt,pptx,txt等文档转换成PDF文档，如果不指定输出地址默认当前文件地址
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 * 
@@ -95,7 +95,7 @@ public class SingleOpenOffice {
 	/**
 	 * 执行方法服务功能
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 * 

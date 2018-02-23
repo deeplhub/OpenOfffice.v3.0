@@ -2,7 +2,7 @@ package com.singleton;
 
 /**
  * 
- * @author M.Dong
+ * @author H.Yang
  * @date 2017Äê9ÔÂ8ÈÕ
  */
 public enum FileSuffixType {

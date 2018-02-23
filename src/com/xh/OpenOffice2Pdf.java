@@ -15,7 +15,7 @@ public class OpenOffice2Pdf {
 	 * <hr>
 	 * 将doc,docx,xls,xlsx,ppt,pptx,txt等文档转换成PDF文档，如果不指定输出地址默认当前文件地址
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 * 
@@ -35,7 +35,7 @@ public class OpenOffice2Pdf {
 	/**
 	 * 数据加工
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 * 
@@ -87,7 +87,7 @@ public class OpenOffice2Pdf {
 	/**
 	 * 执行方法服务功能
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 * 
@@ -117,7 +117,7 @@ public class OpenOffice2Pdf {
 	/**
 	 * 开启服务
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 * 
@@ -150,7 +150,7 @@ public class OpenOffice2Pdf {
 	/**
 	 * 关闭服务
 	 * 
-	 * @author Hyang
+	 * @author H.Yang
 	 * @date 2016年12月13日
 	 * @explain
 	 *
