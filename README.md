@@ -1,9 +1,18 @@
-word,excel,ppt,txt���ĵ�תpdf
+# 分享知识 传递快乐
 
-��ת���ĵ�ʱ����Ҫ��װApache�µ�OpenOfffice������������ת����
 
-### ת�������ַ�ʽ��
+### word,excel,ppt,txt等文档转pdf
+在转换文档时首先要安装Apache下的OpenOfffice软件，否则不是转换。<br>
 
-һ���ǵ�����ʽ<br>
+### 转换的两种方式：
 
-һ���Ƿ�װ��ʽ
+一种是单例方式<br>
+
+一种是封装方式
+
+
+<br><br><br>
+
+---
+
+ **如有不足或新的想法请留言--分享知识 传递快乐 。**
